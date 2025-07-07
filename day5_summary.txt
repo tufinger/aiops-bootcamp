@@ -1,0 +1,3 @@
+Day 5 Practice
+Set up Git and pushed to GitHub
+Learned: git init, add, commit, push
