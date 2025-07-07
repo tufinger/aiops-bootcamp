@@ -1,0 +1,3 @@
+Day 3 Practice
+Wrote and ran my first Python script: greet.py
+Learned: variables, input, print, if-else

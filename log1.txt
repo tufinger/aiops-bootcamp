@@ -1,0 +1,2 @@
+Log entry for log1.txt
+Status: OK

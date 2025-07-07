@@ -1,0 +1,3 @@
+Day 4 Practice
+Wrote file_automation.py to create and analyze log files
+Learned: lists, for loops, file I/O
