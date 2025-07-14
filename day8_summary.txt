@@ -1,0 +1,3 @@
+Week 2, Day 1 Practice
+Built and ran a Dockerized Python app
+Learned: Docker installation, Dockerfile, containerization
